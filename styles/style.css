@@ -1,0 +1,92 @@
+*{
+	margin: 0;
+	
+}
+body{
+
+}
+
+.header_wrapper{
+	width: 100%;
+	height: 100px;
+	border-bottom: 5px solid brown;
+	background-color:black;
+}
+.header{
+	width: 100%;
+	margin: 0 auto;
+}
+.header img{
+	float: left;
+	margin-top: 35px;
+}
+#form1{
+	line-height: 100px;
+	float: right;
+	color: white;
+	font-family: sans-serif;
+}
+#form1 input{
+	width: 130px;
+	height: 20px;
+	padding: 4px;
+	margin-right: 10px;
+}
+#form1 input[type="submit"]{
+	height: 25px;
+	width: 100px;
+}
+.content{
+	width: 80%;
+	margin: 0 auto;
+}
+.banner{
+	width: 38%;
+	float: left;
+}
+.form2{
+	width: 42%;
+	float: right;
+	font-family: sans-serif;
+
+}
+
+.form2 input{
+margin: 4px 0 4px 0;
+	padding: 10px;
+	border:1px solid black;
+	border-radius: 5px;
+}
+select{
+    margin: 4px 0 4px 0;
+	width: 185px;
+	padding: 10px;
+	border:1px solid black;
+	border-radius: 5px;
+}
+label{
+	font-weight: bold;
+}
+.banner{
+	float: left;
+}
+.banner img,h2{
+	margin-top: 40px;
+	font-family: sans-serif;
+}
+.content img{
+	width: 100%;
+	height: 60%;
+}
+.footer{
+	background-color: black;
+	color: white;
+	font-family: sans-serif;
+	border-top: 5px solid brown;
+	clear: both;
+	padding-bottom: 30px;
+	text-align: center;
+}
+.clr{
+	clear: both;
+}
